@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Researcher in [your field]
+subtitle: Phd student in Astrophysics
 permalink: /aboutme/
 ---
 
