@@ -1,5 +1,14 @@
 name: Beautiful Jekyll CI
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      -main
+  pull_request:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  
 jobs:
   build:
     name: Build Jekyll
@@ -24,3 +33,16 @@ jobs:
         run: bundle exec appraisal jekyll build --future --config _config_ci.yml,_config.yml
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+
+deploy:
+  name: Deploy to GitHub Pages
+  needs: build
+  runs-on: ubuntu-latest
+  environment:
+    name: github-pages
+    url: ${{ steps.deployment.outputs.page_url }}
+
+  steps:
+    - name: Deploy
+      id: deployment
+      uses: actions/deploy-pages@v4
