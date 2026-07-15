@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   CV:
   Publications:
+  Author's home: "https://clemencegourves.github.io"
 
 ################
 # --- Logo --- #
