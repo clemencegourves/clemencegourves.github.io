@@ -2,7 +2,7 @@ name: Beautiful Jekyll CI
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
 
 permissions:
