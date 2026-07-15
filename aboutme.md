@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Researcher in [your field]
+permalink: /aboutme/
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# About Me
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Welcome!
 
-What else do you need?
+I am **Clémence Gourvès**, a second-year phd student in **Astrophysics** at **CEA Paris-Saclay**.
 
-### My story
+My research focuses on **star-planet magnetic interactions** and **close-in exoplanets detection**
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am specialised in the 3D numerical simulation of star-planet magnetic interactions. I also works on the observation and characterisation of close-in, non-transiting exoplanets through photometry, in _Kepler_ and TESS data
+
+
+Feel free to explore my publications and projects.
