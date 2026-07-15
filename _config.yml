@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Clémence Gourvès
 
 # Your name to show in the footer
-author: Some Person
+author: Clémence Gourvès
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: ""clemencegourves.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -136,17 +136,22 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+page-col: "#F8FBFE"
+text-col: "#243447"
+
+link-col: "#1F5FA8"
+hover-col: "#4A90E2"
+
+navbar-col: "#0F4C81"
+navbar-text-col: "#FFFFFF"
+navbar-border-col: "#0A3A63"
+
+footer-col: "#143D66"
+footer-text-col: "#D9E7F5"
+footer-link-col: "#FFFFFF"
+footer-hover-col: "#7EC8FF"
+
+mobile-theme-col: "#0F4C81"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
