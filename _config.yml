@@ -252,7 +252,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: "my-site"
+      layout: "page"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
