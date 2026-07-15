@@ -31,7 +31,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/me.jpeg"
+avatar: "/assets/img/WhatsApp Image 2026-07-15 at 15.55.03.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -129,8 +129,8 @@ mobile-theme-col: "#0F4C81"
 # instead of colour
 
 navbar-img: "/assets/img/3DviewMa_C_forward_0118.png"
-footer-img: "/assets/img/3DviewMa_C_forward_0118.png"
-page-img: "/assets/img/bgimage.png"
+# footer-img: "/assets/img/3DviewMa_C_forward_0118.png"
+# page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
