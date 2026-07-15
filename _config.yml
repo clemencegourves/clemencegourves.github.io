@@ -21,9 +21,8 @@ author: Clemence Gourves
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  CV:
+  Publications:
   Author's home: "https://deanattali.com"
 
 ################
@@ -74,7 +73,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
+  ORCID: 0009-0005-0555-4859
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
