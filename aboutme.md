@@ -3,7 +3,7 @@ layout: page
 title: About Me
 subtitle: Phd student in Astrophysics
 permalink: /aboutme/
-page-img: "/assets/img/3DviewMa_C_forward_0300.png"
+page-img: /assets/img/3DviewMa_C_forward_0300.png
 ---
 
 # About Me
