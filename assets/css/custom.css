@@ -1,0 +1,17 @@
+.poster-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 25px;
+  margin-top: 20px;
+}
+
+.poster-gallery img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,.2);
+  transition: transform .2s ease;
+}
+
+.poster-gallery img:hover {
+  transform: scale(1.04);
+}
