@@ -7,37 +7,37 @@ permalink: /poster/
 <div class="poster-gallery">
 
   <div class="poster-item">
-    <img src="/assets/posters/77_CGourves_NonTransiting.jpg" alt="Exobiologie Jeunes Chercheurs et Chercheuses 2024" onclick="openLightbox(this.src)">
+    <img src="/assets/poster/77_CGourves_NonTransiting.jpg" alt="Exobiologie Jeunes Chercheurs et Chercheuses 2024" onclick="openLightbox(this.src)">
     <p class="poster-caption">Exobiologie Jeunes Chercheurs et Chercheuses 2024
-      <a href="/assets/posters/PosterEJC24.pdf" target="_blank">(PDF)</a>
+      <a href="/assets/poster/PosterEJC24.pdf" target="_blank">(PDF)</a>
     </p>
   </div>
 
   <div class="poster-item">
-    <img src="/assets/posters/77_CGourves_NonTransiting.jpg" alt="European Geosciences Union 2025" onclick="openLightbox(this.src)">
+    <img src="/assets/poster/77_CGourves_NonTransiting.jpg" alt="European Geosciences Union 2025" onclick="openLightbox(this.src)">
     <p class="poster-caption">European Geosciences Union 2025
-      <a href="/assets/posters/PosterEGU.pdf" target="_blank">(PDF)</a>
+      <a href="/assets/poster/PosterEGU.pdf" target="_blank">(PDF)</a>
     </p>
   </div>
 
   <div class="poster-item">
-    <img src="/assets/posters/77_CGourves_NonTransiting.jpg" alt="École des Houches - Planetary Atmospheres and Interiors: A Two-Way Connection" onclick="openLightbox(this.src)">
+    <img src="/assets/poster/77_CGourves_NonTransiting.jpg" alt="École des Houches - Planetary Atmospheres and Interiors: A Two-Way Connection" onclick="openLightbox(this.src)">
     <p class="poster-caption">École des Houches - Planetary Atmospheres and Interiors: A Two-Way Connection
-      <a href="/assets/posters/PosterHouches26.pdf" target="_blank">(PDF)</a>
+      <a href="/assets/poster/PosterHouches26.pdf" target="_blank">(PDF)</a>
     </p>
   </div>
 
   <div class="poster-item">
-    <img src="/assets/posters/77_CGourves_NonTransiting.jpg" alt="Ariel Open Science Conference 2026" onclick="openLightbox(this.src)">
+    <img src="/assets/poster/77_CGourves_NonTransiting.jpg" alt="Ariel Open Science Conference 2026" onclick="openLightbox(this.src)">
     <p class="poster-caption">Ariel Open Science Conference 2026
-      <a href="/assets/posters/77_CGourves_NonTransiting.pdf" target="_blank">(PDF)</a>
+      <a href="/assets/poster/77_CGourves_NonTransiting.pdf" target="_blank">(PDF)</a>
     </p>
   </div>
 
   <div class="poster-item">
-    <img src="/assets/posters/77_CGourves_NonTransiting.jpg" alt="Cool Stars 23" onclick="openLightbox(this.src)">
+    <img src="/assets/poster/77_CGourves_NonTransiting.jpg" alt="Cool Stars 23" onclick="openLightbox(this.src)">
     <p class="poster-caption">Cool Stars 23
-      <a href="/assets/posters/P2081_Gourves.pdf" target="_blank">(PDF)</a>
+      <a href="/assets/poster/P2081_Gourves.pdf" target="_blank">(PDF)</a>
     </p>
   </div>
 
