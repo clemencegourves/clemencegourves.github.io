@@ -3,7 +3,6 @@ layout: page
 title: Poster gallery
 permalink: /poster/
 ---
-# Posters
 <div class="poster-gallery">
 
   <div class="poster-item">
