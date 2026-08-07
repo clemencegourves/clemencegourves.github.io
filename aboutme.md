@@ -4,9 +4,6 @@ title: About Me
 subtitle: Phd student in Astrophysics
 permalink: /aboutme/
 ---
-
-# About Me
-
 <img src="/assets/img/3DviewMa_C_forward_0300.png" alt="3D simulation view" class="aboutme-img">
 
 Welcome!
