@@ -16,3 +16,28 @@ permalink: /cv/
 - [Mar - Jul 2024] 5-month internship – Modelisation of star-planet magnetic interactions applied to HD 189733 system, supervised by Dr. Antoine Strugarek. CEA Saclay, Gif-sur-Yvette, France
 - [May - Jul 2023] 3-month internship – Photometric signature of substellar non-transiting companions, supervised by Dr.Antonino Francesco Lanza and Dr. Sylvain Breton. INAF - Osservatorio Astrofisico di Catania (OACT), Catane, Italie
 - [Feb - Jul 2022] 5-month internship – Origin and evolution of compact planetary systems, supervised by Dr. Antoine Strugarek. CEA Saclay, Gif-sur-Yvette, France
+
+# Awards and Scholarships
+- November 2024, **Award for Best poster of the conference** at Exobiologie Jeunes Chercheur·ses 2024 Conference
+- 2023, **IDEX Excellence Scholarship**. Excellence scholarship to support mobility for international internships. Université Paris-Saclay, Gif-sur-Yvette, France
+
+# Allocated Observing time
+SPIRou Canada France Hawai Telescope - Discretionary Director’s Time 25B
+August
+2025
+Title : “Confirmation of the existence of a close-in exoplanet detected through photometric modulation”
+Radial velocity monitoring of a candidate star to test for the presence of a close-orbiting exoplanet.
+Allocated time : 2.7 h - PI : J. Morin & C. Gourvès
+SPIRou Canada France Hawai Telescope - 26A Semester
+December
+2025
+Title : “Confirmation of two close-in exoplanet after promising initial SPIRou radial velocity observations”
+A radial velocity campaign on two targets to confirm the presence of two exoplanets close to their host star.
+Allocated time : 14,7h - PI : C. Gourvès
+Collaborations with Drs. Julien Morin (LUPM), Pascal Petit and Claire Moutou (IRAP)
+SPIRou Canada France Hawai Telescope - Discretionary Director’s Time 26B
+August
+2026
+Title : “Confirmation of a close-in exoplanet around KIC 7847566”
+Radial velocity monitoring of a candidate star to definitly confirm for the presence of an exoplanet orbiting in 9 hours.
+Allocated time : 2.7 h - PI : C. Gourvès
