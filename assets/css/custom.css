@@ -60,8 +60,8 @@
   font-weight: bold;
   cursor: pointer;
 }
-/* ---------- About Me page layout ----------*/
 
+/* ---------- About Me inline image ---------- */
 .aboutme-img {
   max-width: 500px;
   width: 100%;
@@ -69,7 +69,6 @@
   display: block;
   margin: 20px auto;
 }
-
 
 /* ---------- CV timeline ---------- */
 .cv-timeline {
