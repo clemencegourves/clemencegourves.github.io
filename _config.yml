@@ -22,7 +22,7 @@ author: "Clémence Gourvès"
 navbar-links:
   About Me: "aboutme"
   CV: "cv"
-  Publications:
+  Publications: "publications"
   # Author's home: "https://clemencegourves.github.io"
 
 ################
