@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   CV: "cv"
   Publications: "publications"
-  # Poster gallery: "poster"
+  Poster gallery: "poster"
   # Author's home: "https://clemencegourves.github.io"
 
 ################
@@ -249,7 +249,6 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
     scope:
       path: ""
       type: "post"
@@ -257,7 +256,6 @@ defaults:
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-  -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
