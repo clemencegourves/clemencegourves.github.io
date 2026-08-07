@@ -69,3 +69,70 @@
   display: block;
   margin: 20px auto;
 }
+
+
+/* ---------- CV timeline ---------- */
+.cv-timeline {
+  border-left: 3px solid #0F4C81;
+  margin: 10px 0 30px 10px;
+  padding-left: 0;
+}
+
+.cv-entry {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 24px;
+  padding: 14px 0 14px 24px;
+  position: relative;
+}
+
+.cv-entry::before {
+  content: "";
+  position: absolute;
+  left: -9px;
+  top: 20px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #0F4C81;
+  border: 2px solid #F8FBFE;
+}
+
+.cv-date {
+  flex: 0 0 130px;
+  font-weight: 600;
+  color: #0F4C81;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.cv-content {
+  flex: 1 1 300px;
+  min-width: 0;
+}
+
+.cv-content h4 {
+  margin: 0 0 4px 0;
+  font-size: 1.05rem;
+}
+
+.cv-content .cv-institution {
+  font-style: italic;
+  color: #4A4A4A;
+  margin: 0 0 6px 0;
+  font-size: 0.9rem;
+}
+
+.cv-content p {
+  margin: 0 0 4px 0;
+}
+
+@media (max-width: 500px) {
+  .cv-entry {
+    flex-direction: column;
+    gap: 2px;
+  }
+  .cv-date {
+    flex: none;
+  }
+}
