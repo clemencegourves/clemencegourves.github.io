@@ -3,10 +3,11 @@ layout: page
 title: About Me
 subtitle: Phd student in Astrophysics
 permalink: /aboutme/
-page-img: /assets/img/3DviewMa_C_forward_0300.png
 ---
 
 # About Me
+
+<img src="/assets/img/3DviewMa_C_forward_0300.png" alt="3D simulation view" class="aboutme-img">
 
 Welcome!
 
@@ -15,5 +16,3 @@ My research focuses on **star-planet magnetic interactions** and **close-in exop
 I am specialised in the 3D numerical simulation of star-planet magnetic interactions. I also works on the observation and characterisation of close-in, non-transiting exoplanets through photometry, in _Kepler_ and TESS data
 
 Feel free to explore my publications and projects.
-
-<img src="/assets/img/3DviewMa_C_forward_0300.png" style="width:300px;">
