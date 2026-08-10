@@ -135,3 +135,85 @@
     flex: none;
   }
 }
+
+/* ---------- Publications list ---------- */
+.pub-list {
+  margin: 10px 0 30px 0;
+}
+
+.pub-entry {
+  display: flex;
+  gap: 20px;
+  padding: 16px 0;
+  border-bottom: 1px solid #E0E6ED;
+}
+
+.pub-entry:last-child {
+  border-bottom: none;
+}
+
+.pub-year {
+  flex: 0 0 60px;
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #FFFFFF;
+  background: #0F4C81;
+  border-radius: 6px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pub-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.pub-title {
+  margin: 0 0 6px 0;
+  font-size: 1.05rem;
+  font-style: italic;
+  color: #243447;
+}
+
+.pub-authors {
+  margin: 0 0 4px 0;
+  font-size: 0.95rem;
+}
+
+.pub-me {
+  color: #03045e;
+  font-weight: 700;
+}
+
+.pub-journal {
+  margin: 0 0 6px 0;
+  font-size: 0.9rem;
+  color: #4A4A4A;
+}
+
+.pub-doi {
+  display: inline-block;
+  font-size: 0.85rem;
+  color: #1F5FA8;
+  text-decoration: none;
+  border: 1px solid #1F5FA8;
+  border-radius: 4px;
+  padding: 3px 8px;
+}
+
+.pub-doi:hover {
+  background: #1F5FA8;
+  color: #FFFFFF;
+}
+
+@media (max-width: 500px) {
+  .pub-entry {
+    flex-direction: column;
+    gap: 8px;
+  }
+  .pub-year {
+    width: 60px;
+  }
+}
