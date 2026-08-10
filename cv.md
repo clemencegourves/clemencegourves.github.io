@@ -5,6 +5,8 @@ permalink: /cv/
 ---
 
 # Education
+<div class="cv-timeline"> <div class="cv-entry"> <div class="cv-date">2024&ndash;2027</div> <div class="cv-content"> <h4>PhD in Astronomy &amp; Astrophysics</h4> <p class="cv-institution">Université Paris-Cité &amp; CEA Saclay, France</p> <p><strong>Thesis title:</strong> Star-planet magnetic interactions: towards the characterisation of the exoplanetary magnetic field. Supervised by Dr. Antoine Strugarek.</p> </div> </div> <div class="cv-entry"> <div class="cv-date">2023&ndash;2024</div> <div class="cv-content"> <h4>Master 2, Astronomy &amp; Astrophysics</h4> <p class="cv-institution">Observatoire de Paris, France</p> </div> </div> <div class="cv-entry"> <div class="cv-date">2022&ndash;2023</div> <div class="cv-content"> <h4>Master 1, Planetology &amp; Space Exploration</h4> <p class="cv-institution">Université Paris-Saclay, France</p> </div> </div> <div class="cv-entry"> <div class="cv-date">2018&ndash;2022</div> <div class="cv-content"> <h4>Bachelor, Earth, Environment and Planetary Sciences</h4> <p class="cv-institution">Université Paris Cité &ndash; Institut de Physique du Globe, France</p> </div> </div> </div>
+
 
 - [2024 - 2027] **PhD in Astronomy & Astrophysics** , Université Paris-Cité & CEA Saclay, France. **Thesis title**: Star-planet magnetic interactions: towards the characterisation of the exoplanetary magnetic field. Supervised by Dr. Antoine Strugarek
 - [2023 - 2024] **Master 2 Astronomy & Astrophysics** , Observatoire de Paris, France. 
