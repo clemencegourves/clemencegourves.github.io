@@ -9,6 +9,15 @@ permalink: /publications/
 <div class="pub-list">
 
   <div class="pub-entry">
+    <div class="pub-year">2026</div>
+    <div class="pub-content">
+      <h4 class="pub-title">Hidden worlds: a non-transiting planet in the Neptunian desert around the solar-type pulsator KIC9139163</h4>
+      <p class="pub-authors">Breton, S. N., Dyrek, A., [&hellip;], <span class="pub-me">Gourv&egrave;s, C.</span>, et al.</p>
+      <a class="pub-doi" href="https://doi.org/10.48550/arXiv.2605.28755" target="_blank">DOI: 10.48550/arXiv.2605.28755</a>
+    </div>
+  </div>
+
+  <div class="pub-entry">
     <div class="pub-year">2025</div>
     <div class="pub-content">
       <h4 class="pub-title">Non-transiting exoplanets as a means of understanding star&ndash;planet interactions in close-in systems</h4>
@@ -28,14 +37,7 @@ permalink: /publications/
     </div>
   </div>
 
-  <div class="pub-entry">
-    <div class="pub-year">2026</div>
-    <div class="pub-content">
-      <h4 class="pub-title">Hidden worlds: a non-transiting planet in the Neptunian desert around the solar-type pulsator KIC9139163</h4>
-      <p class="pub-authors">Breton, S. N., Dyrek, A., [&hellip;], <span class="pub-me">Gourv&egrave;s, C.</span>, et al.</p>
-      <a class="pub-doi" href="https://doi.org/10.48550/arXiv.2605.28755" target="_blank">DOI: 10.48550/arXiv.2605.28755</a>
-    </div>
-  </div>
+
 
 </div>
 
@@ -48,7 +50,7 @@ permalink: /publications/
     <div class="pub-content">
       <h4 class="pub-title">Towards the confirmation of a new ultra-short period planet orbiting a M-type star</h4>
       <p class="pub-authors"><span class="pub-me">Gourv&egrave;s, C.</span>, Strugarek, A., Moutou, C., et al.</p>
-      <p class="pub-journal">in SF2A-2025: Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, 461&ndash;464</p>
+      <p class="pub-journal" href="https://ui.adsabs.harvard.edu/abs/2025sf2a.conf..461G">in SF2A-2025: Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, 461&ndash;464</p>
     </div>
   </div>
 
