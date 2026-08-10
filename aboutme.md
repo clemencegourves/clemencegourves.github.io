@@ -4,7 +4,7 @@ title: About Me
 subtitle: Phd student in Astrophysics
 permalink: /aboutme/
 ---
-<!-- <img src="/assets/img/3DviewMa_C_forward_0300.png" alt="3D simulation view" class="aboutme-img"> -->
+<div class="video-hero"> <video autoplay muted loop playsinline class="video-hero-bg" poster="/assets/img/3DviewMa_C_forward_0300.png"> <source src="/assets/video/background.mp4" type="video/mp4"> </video> <div class="video-hero-overlay"></div> <div class="video-hero-text"> <h1>Clémence Gourvès</h1> <p>PhD student in Astrophysics</p> </div> </div>
 
 Welcome!
 
