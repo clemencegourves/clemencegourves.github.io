@@ -5,19 +5,227 @@ permalink: /cv/
 ---
 
 # Education
-<div class="cv-timeline"> <div class="cv-entry"> <div class="cv-date">2024&ndash;2027</div> <div class="cv-content"> <h4>PhD in Astronomy &amp; Astrophysics</h4> <p class="cv-institution">Université Paris-Cité &amp; CEA Saclay, France</p> <p><strong>Thesis title:</strong> Star-planet magnetic interactions: towards the characterisation of the exoplanetary magnetic field. Supervised by Dr. Antoine Strugarek.</p> </div> </div> <div class="cv-entry"> <div class="cv-date">2023&ndash;2024</div> <div class="cv-content"> <h4>Master 2, Astronomy &amp; Astrophysics</h4> <p class="cv-institution">Observatoire de Paris, France</p> </div> </div> <div class="cv-entry"> <div class="cv-date">2022&ndash;2023</div> <div class="cv-content"> <h4>Master 1, Planetology &amp; Space Exploration</h4> <p class="cv-institution">Université Paris-Saclay, France</p> </div> </div> <div class="cv-entry"> <div class="cv-date">2018&ndash;2022</div> <div class="cv-content"> <h4>Bachelor, Earth, Environment and Planetary Sciences</h4> <p class="cv-institution">Université Paris Cité &ndash; Institut de Physique du Globe, France</p> </div> </div> </div>
+
+<div class="cv-timeline">
+
+  <div class="cv-entry">
+    <div class="cv-date">2024&ndash;2027</div>
+    <div class="cv-content">
+      <h4>PhD in Astronomy &amp; Astrophysics</h4>
+      <p class="cv-institution">Université Paris-Cité &amp; CEA Saclay, France</p>
+      <p><strong>Thesis title:</strong> Star-planet magnetic interactions: towards the characterisation of the exoplanetary magnetic field. Supervised by Dr. Antoine Strugarek.</p>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-date">2023&ndash;2024</div>
+    <div class="cv-content">
+      <h4>Master 2, Astronomy &amp; Astrophysics</h4>
+      <p class="cv-institution">Observatoire de Paris, France</p>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-date">2022&ndash;2023</div>
+    <div class="cv-content">
+      <h4>Master 1, Planetology &amp; Space Exploration</h4>
+      <p class="cv-institution">Université Paris-Saclay, France</p>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-date">2018&ndash;2022</div>
+    <div class="cv-content">
+      <h4>Bachelor, Earth, Environment and Planetary Sciences</h4>
+      <p class="cv-institution">Université Paris Cité &ndash; Institut de Physique du Globe, France</p>
+    </div>
+  </div>
+
+</div>
 
 # Research internships
-<div class="cv-timeline"> <div class="cv-entry"> <div class="cv-date">Mar&ndash;Jul 2024</div> <div class="cv-content"> <h4>Modelisation of star-planet magnetic interactions applied to HD 189733 system</h4> <p class="cv-institution">CEA Saclay, Gif-sur-Yvette, France</p> <p>5-month internship, supervised by Dr. Antoine Strugarek.</p> </div> </div> <div class="cv-entry"> <div class="cv-date">May&ndash;Jul 2023</div> <div class="cv-content"> <h4>Photometric signature of substellar non-transiting companions</h4> <p class="cv-institution">INAF &ndash; Osservatorio Astrofisico di Catania (OACT), Catania, Italy</p> <p>3-month internship, supervised by Dr. Antonino Francesco Lanza and Dr. Sylvain Breton.</p> </div> </div> <div class="cv-entry"> <div class="cv-date">Feb&ndash;Jul 2022</div> <div class="cv-content"> <h4>Origin and evolution of compact planetary systems</h4> <p class="cv-institution">CEA Saclay, Gif-sur-Yvette, France</p> <p>5-month internship, supervised by Dr. Antoine Strugarek.</p> </div> </div> </div>
 
-# Awards and Scholarships
-<div class="cv-timeline"> <div class="cv-entry"> <div class="cv-date">Nov 2024</div> <div class="cv-content"> <h4>Award for Best Poster of the Conference</h4> <p class="cv-institution">Exobiologie Jeunes Chercheur&middot;ses 2024 Conference</p> </div> </div> <div class="cv-entry"> <div class="cv-date">2023</div> <div class="cv-content"> <h4>IDEX Excellence Scholarship</h4> <p class="cv-institution">Université Paris-Saclay, Gif-sur-Yvette, France</p> <p>Excellence scholarship to support mobility for international internships.</p> </div> </div> </div>
+<div class="cv-timeline">
+
+  <div class="cv-entry">
+    <div class="cv-date">Mar&ndash;Jul 2024</div>
+    <div class="cv-content">
+      <h4>Modelisation of star-planet magnetic interactions applied to HD 189733 system</h4>
+      <p class="cv-institution">CEA Saclay, Gif-sur-Yvette, France</p>
+      <p>5-month internship, supervised by Dr. Antoine Strugarek.</p>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-date">May&ndash;Jul 2023</div>
+    <div class="cv-content">
+      <h4>Photometric signature of substellar non-transiting companions</h4>
+      <p class="cv-institution">INAF &ndash; Osservatorio Astrofisico di Catania (OACT), Catania, Italy</p>
+      <p>3-month internship, supervised by Dr. Antonino Francesco Lanza and Dr. Sylvain Breton.</p>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-date">Feb&ndash;Jul 2022</div>
+    <div class="cv-content">
+      <h4>Origin and evolution of compact planetary systems</h4>
+      <p class="cv-institution">CEA Saclay, Gif-sur-Yvette, France</p>
+      <p>5-month internship, supervised by Dr. Antoine Strugarek.</p>
+    </div>
+  </div>
+
+</div>
+
+# Awards
+
+<div class="cv-timeline">
+
+  <div class="cv-entry">
+    <div class="cv-date">Nov 2024</div>
+    <div class="cv-content">
+      <h4>Award for Best Poster of the Conference</h4>
+      <p class="cv-institution">Exobiologie Jeunes Chercheur&middot;ses 2024 Conference</p>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-date">2023</div>
+    <div class="cv-content">
+      <h4>IDEX Excellence Scholarship</h4>
+      <p class="cv-institution">Université Paris-Saclay, Gif-sur-Yvette, France</p>
+      <p>Excellence scholarship to support mobility for international internships.</p>
+    </div>
+  </div>
+
+</div>
 
 # Allocated Observing Time
-<div class="cv-timeline"> <div class="cv-entry"> <div class="cv-date">Aug 2026</div> <div class="cv-content"> <h4>SPIRou &ndash; Canada-France-Hawaii Telescope</h4> <p class="cv-institution">Discretionary Director&rsquo;s Time 26B &ndash; PI: C. Gourvès</p> <p><strong>Title:</strong> &ldquo;Confirmation of a close-in exoplanet around KIC 7847566&rdquo;</p> <p><strong>Allocated time:</strong> 2.7 h</p> </div> </div> <div class="cv-entry"> <div class="cv-date">Dec 2025</div> <div class="cv-content"> <h4>SPIRou &ndash; Canada-France-Hawaii Telescope</h4> <p class="cv-institution">Semester 26A &ndash; PI: C. Gourvès</p> <p><strong>Title:</strong> &ldquo;Confirmation of two close-in exoplanets after promising initial SPIRou radial velocity observations&rdquo;</p> <p><strong>Allocated time:</strong> 14.7 h</p> </div> </div> <div class="cv-entry"> <div class="cv-date">Aug 2025</div> <div class="cv-content"> <h4>SPIRou &ndash; Canada-France-Hawaii Telescope</h4> <p class="cv-institution">Discretionary Director&rsquo;s Time 25B &ndash; PI: J. Morin &amp; C. Gourvès</p> <p><strong>Title:</strong> &ldquo;Confirmation of the existence of a close-in exoplanet detected through photometric modulation&rdquo;</p> <p><strong>Allocated time:</strong> 2.7 h</p> </div> </div> </div>
+
+<div class="cv-timeline">
+
+  <div class="cv-entry">
+    <div class="cv-date">Aug 2026</div>
+    <div class="cv-content">
+      <h4>SPIRou &ndash; Canada-France-Hawaii Telescope</h4>
+      <p class="cv-institution">Discretionary Director&rsquo;s Time 26B &ndash; PI: C. Gourvès</p>
+      <p><strong>Title:</strong> &ldquo;Confirmation of a close-in exoplanet around KIC 7847566&rdquo;</p>
+      <p><strong>Allocated time:</strong> 2.7 h</p>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-date">Dec 2025</div>
+    <div class="cv-content">
+      <h4>SPIRou &ndash; Canada-France-Hawaii Telescope</h4>
+      <p class="cv-institution">Semester 26A &ndash; PI: C. Gourvès</p>
+      <p><strong>Title:</strong> &ldquo;Confirmation of two close-in exoplanets after promising initial SPIRou radial velocity observations&rdquo;</p>
+      <p><strong>Allocated time:</strong> 14.7 h</p>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-date">Aug 2025</div>
+    <div class="cv-content">
+      <h4>SPIRou &ndash; Canada-France-Hawaii Telescope</h4>
+      <p class="cv-institution">Discretionary Director&rsquo;s Time 25B &ndash; PI: J. Morin &amp; C. Gourvès</p>
+      <p><strong>Title:</strong> &ldquo;Confirmation of the existence of a close-in exoplanet detected through photometric modulation&rdquo;</p>
+      <p><strong>Allocated time:</strong> 2.7 h</p>
+    </div>
+  </div>
+
+</div>
+# Communications
+
+<div class="cv-timeline">
+
+  <div class="cv-entry">
+    <div class="cv-date">Jul 2025</div>
+    <div class="cv-content">
+      <h4>2025 Annual Meeting of the French Astrophysical Society</h4>
+      <p class="cv-institution">Toulouse, France &ndash; 20 min</p>
+      <p>&ldquo;Non-Transiting close-in exoplanets &ndash; A means to better understand star-planet interactions?&rdquo;</p>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-date">Apr 2025</div>
+    <div class="cv-content">
+      <h4>Elbereth Conference 2025</h4>
+      <p class="cv-institution">Meudon, France &ndash; 15 min</p>
+      <p>&ldquo;Better understanding star-planet interactions by studying non-transiting exoplanets&rdquo;</p>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-date">Oct 2025</div>
+    <div class="cv-content">
+      <h4>Seminar for doctoral students, CEA Department of Astrophysics</h4>
+      <p class="cv-institution">Gif-sur-Yvette, France &ndash; 15 min</p>
+      <p>&ldquo;How to discover close-in exoplanets with orbital brightness modulation and radial-velocity follow-up&rdquo;</p>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-date">Apr 2026</div>
+    <div class="cv-content">
+      <h4>ExoSyst&egrave;mes V</h4>
+      <p class="cv-institution">Paris, France &ndash; 20 min</p>
+      <p>&ldquo;Realistic modulations of star&ndash;planet magnetic interactions in magnetically structured winds of cool stars&rdquo;</p>
+    </div>
+  </div>
+
+</div>
 
 # Teaching, Mentoring and Outreach
-<div class="cv-timeline"> <div class="cv-entry"> <div class="cv-date">Nov 2023&ndash;Nov 2025</div> <div class="cv-content"> <h4>Teaching &ndash; Mathematics for undergraduate students</h4> <p class="cv-institution">Universit&eacute; Paris Cit&eacute; &ndash; Institut de Physique du Globe</p> <ul> <li>Teaching of mathematics for first-year Earth Sciences undergraduate students &ndash; 12 hours</li> </ul> </div> </div> <div class="cv-entry"> <div class="cv-date">2024&ndash;2025</div> <div class="cv-content"> <h4>Outreach event &ndash; Coordinating a virtual reality booth</h4> <p class="cv-institution">Festival Explor&rsquo;Espace &ndash; &ldquo;L&rsquo;UniVR comme vous ne l&rsquo;avez jamais vu&rdquo;</p> <ul> <li>Science outreach for audiences of all ages at a festival attracting 13,000 visitors</li> <li>Organisation of the activities, preparation of educational videos, coordination of the outreach team</li> <li>Managing the booth and a 10-person outreach team for 3 days</li> </ul> </div> </div> <div class="cv-entry"> <div class="cv-date">Jun&ndash;Jul 2026</div> <div class="cv-content"> <h4>Supervision of a research internship</h4> <p class="cv-institution">CEA Saclay, Gif-sur-Yvette, France</p> <p>Detection of non-transiting exoplanets with ultra-short orbital periods in TESS data</p> <ul> <li>Supervising a third-year undergraduate intern in collaboration with Dr. Angela Santos</li> <li>The goal is to apply the same methodology used by Gourv&egrave;s et al. (2025) to detect new exoplanets in TESS data</li> </ul> </div> </div> <div class="cv-entry"> <div class="cv-date">2024&ndash;2025</div> <div class="cv-content"> <h4>Teaching &ndash; Literature review for undergraduate students</h4> <p class="cv-institution">Universit&eacute; Paris Cit&eacute; &ndash; Institut de Physique du Globe</p> <ul> <li>Supervision of the third-year professional bachelor&rsquo;s in environmental studies as part of a guided literature review project &ndash; 20 hours</li> </ul> </div> </div> </div>
 
-# Communications
-<div class="cv-timeline"> <div class="cv-entry"> <div class="cv-date">Jul 2025</div> <div class="cv-content"> <h4>2025 Annual Meeting of the French Astrophysical Society</h4> <p class="cv-institution">Toulouse, France &ndash; 20 min</p> <p>&ldquo;Non-Transiting close-in exoplanets &ndash; A means to better understand star-planet interactions?&rdquo;</p> </div> </div> <div class="cv-entry"> <div class="cv-date">Apr 2025</div> <div class="cv-content"> <h4>Elbereth Conference 2025</h4> <p class="cv-institution">Meudon, France &ndash; 15 min</p> <p>&ldquo;Better understanding star-planet interactions by studying non-transiting exoplanets&rdquo;</p> </div> </div> <div class="cv-entry"> <div class="cv-date">Oct 2025</div> <div class="cv-content"> <h4>Seminar for doctoral students, CEA Department of Astrophysics</h4> <p class="cv-institution">Gif-sur-Yvette, France &ndash; 15 min</p> <p>&ldquo;How to discover close-in exoplanets with orbital brightness modulation and radial-velocity follow-up&rdquo;</p> </div> </div> <div class="cv-entry"> <div class="cv-date">Apr 2026</div> <div class="cv-content"> <h4>ExoSyst&egrave;mes V</h4> <p class="cv-institution">Paris, France &ndash; 20 min</p> <p>&ldquo;Realistic modulations of star&ndash;planet magnetic interactions in magnetically structured winds of cool stars&rdquo;</p> </div> </div> </div>
+<div class="cv-timeline">
+
+  <div class="cv-entry">
+    <div class="cv-date">Nov 2023&ndash;Nov 2025</div>
+    <div class="cv-content">
+      <h4>Teaching &ndash; Mathematics for undergraduate students</h4>
+      <p class="cv-institution">Universit&eacute; Paris Cit&eacute; &ndash; Institut de Physique du Globe</p>
+      <ul>
+        <li>Teaching of mathematics for first-year Earth Sciences undergraduate students &ndash; 12 hours</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-date">2024&ndash;2025</div>
+    <div class="cv-content">
+      <h4>Outreach event &ndash; Coordinating a virtual reality booth</h4>
+      <p class="cv-institution">Festival Explor&rsquo;Espace &ndash; &ldquo;L&rsquo;UniVR comme vous ne l&rsquo;avez jamais vu&rdquo;</p>
+      <ul>
+        <li>Science outreach for audiences of all ages at a festival attracting 13,000 visitors</li>
+        <li>Organisation of the activities, preparation of educational videos, coordination of the outreach team</li>
+        <li>Managing the booth and a 10-person outreach team for 3 days</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-date">Jun&ndash;Jul 2026</div>
+    <div class="cv-content">
+      <h4>Supervision of a research internship</h4>
+      <p class="cv-institution">CEA Saclay, Gif-sur-Yvette, France</p>
+      <p>Detection of non-transiting exoplanets with ultra-short orbital periods in TESS data</p>
+      <ul>
+        <li>Supervising a third-year undergraduate intern in collaboration with Dr. Angela Santos</li>
+        <li>The goal is to apply the same methodology used by Gourv&egrave;s et al. (2025) to detect new exoplanets in TESS data</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-date">2024&ndash;2025</div>
+    <div class="cv-content">
+      <h4>Teaching &ndash; Literature review for undergraduate students</h4>
+      <p class="cv-institution">Universit&eacute; Paris Cit&eacute; &ndash; Institut de Physique du Globe</p>
+      <ul>
+        <li>Supervision of the third-year professional bachelor&rsquo;s in environmental studies as part of a guided literature review project &ndash; 20 hours</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
