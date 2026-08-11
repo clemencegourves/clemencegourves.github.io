@@ -139,6 +139,24 @@ permalink: /cv/
 <div class="cv-timeline">
 
   <div class="cv-entry">
+    <div class="cv-date">Apr 2026</div>
+    <div class="cv-content">
+      <h4>ExoSyst&egrave;mes V</h4>
+      <p class="cv-institution">Paris, France &ndash; 20 min</p>
+      <p>&ldquo;Realistic modulations of star&ndash;planet magnetic interactions in magnetically structured winds of cool stars&rdquo;</p>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-date">Oct 2025</div>
+    <div class="cv-content">
+      <h4>Seminar for doctoral students, CEA Department of Astrophysics</h4>
+      <p class="cv-institution">Gif-sur-Yvette, France &ndash; 15 min</p>
+      <p>&ldquo;How to discover close-in exoplanets with orbital brightness modulation and radial-velocity follow-up&rdquo;</p>
+    </div>
+  </div>
+  
+  <div class="cv-entry">
     <div class="cv-date">Jul 2025</div>
     <div class="cv-content">
       <h4>2025 Annual Meeting of the French Astrophysical Society</h4>
@@ -153,24 +171,6 @@ permalink: /cv/
       <h4>Elbereth Conference 2025</h4>
       <p class="cv-institution">Meudon, France &ndash; 15 min</p>
       <p>&ldquo;Better understanding star-planet interactions by studying non-transiting exoplanets&rdquo;</p>
-    </div>
-  </div>
-
-  <div class="cv-entry">
-    <div class="cv-date">Oct 2025</div>
-    <div class="cv-content">
-      <h4>Seminar for doctoral students, CEA Department of Astrophysics</h4>
-      <p class="cv-institution">Gif-sur-Yvette, France &ndash; 15 min</p>
-      <p>&ldquo;How to discover close-in exoplanets with orbital brightness modulation and radial-velocity follow-up&rdquo;</p>
-    </div>
-  </div>
-
-  <div class="cv-entry">
-    <div class="cv-date">Apr 2026</div>
-    <div class="cv-content">
-      <h4>ExoSyst&egrave;mes V</h4>
-      <p class="cv-institution">Paris, France &ndash; 20 min</p>
-      <p>&ldquo;Realistic modulations of star&ndash;planet magnetic interactions in magnetically structured winds of cool stars&rdquo;</p>
     </div>
   </div>
 
