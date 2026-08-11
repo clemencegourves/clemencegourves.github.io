@@ -9,21 +9,6 @@ Click on each poster to visualise the pdf.
 <div class="poster-gallery">
 
   <div class="poster-item">
-    <a href="/assets/poster/PosterEGU.pdf" target="_blank">
-      <img src="/assets/poster/PosterEGU.jpg" alt="EGU General Assembly 2025">
-    </a>
-    <div class="poster-info">
-      <p class="poster-authors">C. Gourv&egrave;s &amp; A. Strugarek &ndash; <em>EGU General Assembly 2025</em></p>
-      <p class="poster-title">The role of magnetic coupling in exoplanet atmospheres: insights from star-planet magnetic interactions
-        <a href="https://ui.adsabs.harvard.edu/link_gateway/2025EGUGA..27.2525G/doi:10.5194/egusphere-egu25-2525" target="_blank">(DOI)</a>
-      </p>
-      <p class="poster-location">Vienna, Austria &ndash; April 2025</p>
-    </div>
-  </div>
-
-
-
-  <div class="poster-item">
     <a href="/assets/poster/P2081_Gourves.pdf" target="_blank">
       <img src="/assets/poster/P2081_Gourves.jpg" alt="Cool Stars 23">
     </a>
