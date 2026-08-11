@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clémence Gourvès
-subtitle: Third-year phd student in Astrophysics at CEA Paris-Saclay, France
+subtitle: Third-year phd student in Astrophysics, CEA Paris-Saclay, France
 ---
 
 <div class="video-hero">
