@@ -1,8 +1,8 @@
 /* ---------- Poster gallery grid ---------- */
 .poster-gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 30px;
   margin-top: 20px;
 }
 
@@ -21,14 +21,34 @@
   transform: scale(1.04);
 }
 
-.poster-caption {
-  text-align: center;
-  font-size: 0.9rem;
-  margin-top: 8px;
+.poster-info {
+  margin-top: 10px;
 }
 
-.poster-caption a {
-  font-size: 0.8rem;
+.poster-authors {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #0F4C81;
+  margin: 0 0 4px 0;
+}
+
+.poster-title {
+  font-size: 0.95rem;
+  font-style: italic;
+  color: #243447;
+  margin: 0 0 4px 0;
+}
+
+.poster-title a {
+  font-style: normal;
+  font-size: 0.85rem;
+  margin-left: 4px;
+}
+
+.poster-location {
+  font-size: 0.85rem;
+  color: #4A4A4A;
+  margin: 0;
 }
 
 /* ---------- Lightbox overlay ---------- */
