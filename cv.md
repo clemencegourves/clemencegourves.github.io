@@ -181,30 +181,6 @@ permalink: /cv/
 <div class="cv-timeline">
 
   <div class="cv-entry">
-    <div class="cv-date">Nov 2023&ndash;Nov 2025</div>
-    <div class="cv-content">
-      <h4>Teaching &ndash; Mathematics for undergraduate students</h4>
-      <p class="cv-institution">Universit&eacute; Paris Cit&eacute; &ndash; Institut de Physique du Globe</p>
-      <ul>
-        <li>Teaching of mathematics for first-year Earth Sciences undergraduate students &ndash; 12 hours</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="cv-entry">
-    <div class="cv-date">2024&ndash;2025</div>
-    <div class="cv-content">
-      <h4>Outreach event &ndash; Coordinating a virtual reality booth</h4>
-      <p class="cv-institution">Festival Explor&rsquo;Espace &ndash; &ldquo;L&rsquo;UniVR comme vous ne l&rsquo;avez jamais vu&rdquo;</p>
-      <ul>
-        <li>Science outreach for audiences of all ages at a festival attracting 13,000 visitors</li>
-        <li>Organisation of the activities, preparation of educational videos, coordination of the outreach team</li>
-        <li>Managing the booth and a 10-person outreach team for 3 days</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="cv-entry">
     <div class="cv-date">Jun&ndash;Jul 2026</div>
     <div class="cv-content">
       <h4>Supervision of a research internship</h4>
@@ -213,6 +189,17 @@ permalink: /cv/
       <ul>
         <li>Supervising a third-year undergraduate intern in collaboration with Dr. Angela Santos</li>
         <li>The goal is to apply the same methodology used by Gourv&egrave;s et al. (2025) to detect new exoplanets in TESS data</li>
+      </ul>
+    </div>
+  </div>
+  
+  <div class="cv-entry">
+    <div class="cv-date">2024&ndash;2025</div>
+    <div class="cv-content">
+      <h4>Teaching &ndash; Mathematics for undergraduate students</h4>
+      <p class="cv-institution">Universit&eacute; Paris Cit&eacute; &ndash; Institut de Physique du Globe</p>
+      <ul>
+        <li>Teaching of mathematics for first-year Earth Sciences undergraduate students &ndash; 12 hours</li>
       </ul>
     </div>
   </div>
@@ -228,4 +215,17 @@ permalink: /cv/
     </div>
   </div>
 
+  <div class="cv-entry">
+    <div class="cv-date">Nov 2023&ndash;Nov 2025</div>
+    <div class="cv-content">
+      <h4>Outreach event &ndash; Coordinating a virtual reality booth</h4>
+      <p class="cv-institution">Festival Explor&rsquo;Espace &ndash; &ldquo;L&rsquo;UniVR comme vous ne l&rsquo;avez jamais vu&rdquo;</p>
+      <ul>
+        <li>Science outreach for audiences of all ages at a festival attracting 13,000 visitors</li>
+        <li>Organisation of the activities, preparation of educational videos, coordination of the outreach team</li>
+        <li>Managing the booth and a 10-person outreach team for 3 days</li>
+      </ul>
+    </div>
+  </div>
+  
 </div>
