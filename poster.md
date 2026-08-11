@@ -15,13 +15,12 @@ Click on each poster to visualise the pdf.
     <div class="poster-info">
       <p class="poster-authors">C. Gourv&egrave;s, A. Strugarek &amp; A. Paul &ndash; <em>Cool Stars 23</em></p>
       <p class="poster-title">Complex stellar magnetism and realistic star-planet magnetic interactions
-      <a href="https://ui.adsabs.harvard.edu/link_gateway/2025EGUGA..27.2525G/doi:10.5194/egusphere-egu25-2525" target="_blank">(DOI)</a>
+      <a href="https://zenodo.org/records/20593722" target="_blank">(DOI)</a>
       </p>
       <p class="poster-location">Tokyo, Japan &ndash; June 2026</p>
     </div>
   </div>
 
-  https://zenodo.org/records/20593722
 
   <div class="poster-item">
     <a href="/assets/poster/77_CGourves_NonTransiting.pdf" target="_blank">
