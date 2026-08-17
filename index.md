@@ -13,6 +13,6 @@ subtitle: Third-year phd student in Astrophysics, CEA Paris-Saclay, France
     <h1>About me</h1>
     <p>Welcome! I am <strong>Clémence Gourvès</strong>, a third-year phd student in <strong>Astrophysics</strong> at <strong>CEA Paris-Saclay</strong>. My research focuses on <strong>star-planet magnetic interactions</strong> and <strong>close-in exoplanets detection</strong>.</p>
     <p>I am specialised in the <strong>3D numerical simulation</strong> of star-planet magnetic interactions and the <strong>observation and characterisation</strong> of close-in, <strong>non-transiting exoplanets</strong> through photometry, in <em>Kepler</em> and TESS data.</p>
-    <p>Feel free to explore my publications and projects.</p>
+    <p>Feel free to explore my CV and publications.</p>
   </div>
 </div>
