@@ -134,9 +134,19 @@ permalink: /cv/
   </div>
 
 </div>
+
 # Communications
 
 <div class="cv-timeline">
+
+  <div class="cv-entry">
+    <div class="cv-date">Oct 2026</div>
+    <div class="cv-content">
+      <h4>IREX Café - Invited Seminar</h4>
+      <p class="cv-institution">Montréal, Canada &ndash; 1 h </p>
+      <p>&ldquo;Star-planet magnetic interactions : towards the characterisation of the magnetic field of close-in exoplanets;</p>
+    </div>
+  </div>
 
   <div class="cv-entry">
     <div class="cv-date">Apr 2026</div>
