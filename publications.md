@@ -45,6 +45,16 @@ permalink: /publications/
 
 <div class="pub-list">
 
+
+  <div class="pub-entry">
+    <div class="pub-year">2026</div>
+    <div class="pub-content">
+      <h4 class="pub-title">Early Exploration of the Scientific Discovery Space for the Habitable Worlds Observatory</h4>
+      <p class="pub-authors">Dressing, Courtney D. et al. inc <span class="pub-me">Gourv&egrave;s, C.</span>,</p>
+      <p class="pub-journal" href="https://ui.adsabs.harvard.edu/abs/2026arXiv260811294D/abstract"> </p>
+    </div>
+  </div>
+  
   <div class="pub-entry">
     <div class="pub-year">2025</div>
     <div class="pub-content">
