@@ -142,6 +142,15 @@ permalink: /cv/
   <div class="cv-entry">
     <div class="cv-date">Oct 2026</div>
     <div class="cv-content">
+      <h4>Lorentz Center Workshop on star-planet interactions</h4>
+      <p class="cv-institution">Leiden, Netherlands &ndash; Hands on session; 35 min </p>
+      <p>&ldquo;Finding new close-in systems to study SPIs;</p>
+    </div>
+  </div>
+  
+  <div class="cv-entry">
+    <div class="cv-date">Oct 2026</div>
+    <div class="cv-content">
       <h4>IREX Café - Invited Seminar</h4>
       <p class="cv-institution">Montréal, Canada &ndash; 1 h </p>
       <p>&ldquo;Star-planet magnetic interactions : towards the characterisation of the magnetic field of close-in exoplanets;</p>
