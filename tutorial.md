@@ -22,8 +22,7 @@ orbital period. In this tutorial you search for such a signal in the PSD of
 
 **Get the material**
 
-- [Tutorial repository on GitHub](https://github.com/clemencegourves/Orbital-Brightness-Modulation-tutorial) (notebook, helper functions, data)
-- [Preview the notebook (read-only)](https://nbviewer.org/github/clemencegourves/Orbital-Brightness-Modulation-tutorial/blob/main/OBM_tutorial.ipynb)
+[Tutorial repository on GitHub](https://github.com/clemencegourves/Orbital-Brightness-Modulation-tutorial) (notebook, helper functions, data)
 
 **Reference**: *Non-transiting exoplanets as a means of understanding
 star-planet interactions in close-in systems*,
