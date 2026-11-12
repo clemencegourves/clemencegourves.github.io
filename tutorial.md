@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Orbital Brightness Modulation tutorial
-subtitle: Spotting a non-transiting companion in a stellar light curve
+title: Orbital Brightness Modulation method
+subtitle: Quick and simple tutorial - Spotting a non-transiting companion in a stellar light curve
 permalink: /tutorial/
 ---
 
