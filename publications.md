@@ -42,7 +42,6 @@ permalink: /publications/
 </div>
 
 # Other publications
-
 <div class="pub-list">
 
   <div class="pub-entry">
@@ -54,7 +53,7 @@ permalink: /publications/
       <a class="pub-doi" href="https://scixplorer.org/abs/2026sf2a.conf...49G" target="_blank">Bibcode: 2026sf2a.conf...49G</a>
     </div>
   </div>
-  
+
   <div class="pub-entry">
     <div class="pub-year">2026</div>
     <div class="pub-content">
@@ -69,8 +68,9 @@ permalink: /publications/
     <div class="pub-year">2026</div>
     <div class="pub-content">
       <h4 class="pub-title">Early Exploration of the Scientific Discovery Space for the Habitable Worlds Observatory</h4>
-      <p class="pub-authors">Dressing, Courtney D. et al. including <span class="pub-me">Gourv&egrave;s, C.</span> </p>
-      <p class="pub-journal" href="https://ui.adsabs.harvard.edu/abs/2026arXiv260811294D/abstract" target="_blank">DOI:10.48550/arXiv.2608.11294</a>
+      <p class="pub-authors">Dressing, C. D., et al., including <span class="pub-me">Gourv&egrave;s, C.</span></p>
+      <p class="pub-journal">arXiv e-prints (HWO white paper)</p>
+      <a class="pub-doi" href="https://doi.org/10.48550/arXiv.2608.11294" target="_blank">DOI: 10.48550/arXiv.2608.11294</a>
     </div>
   </div>
 
@@ -78,8 +78,8 @@ permalink: /publications/
     <div class="pub-year">2025</div>
     <div class="pub-content">
       <h4 class="pub-title">Detecting and characterising the magnetic field of exoplanets</h4>
-      <p class="pub-authors">Strugarek, A. et al. including <span class="pub-me">Gourv&egrave;s, C.</span> </p>
-      <p class="pub-journal">arXiv e-prints</p>
+      <p class="pub-authors">Strugarek, A., et al., including <span class="pub-me">Gourv&egrave;s, C.</span></p>
+      <p class="pub-journal">arXiv e-prints (HWO25 Proceedings, Part 1)</p>
       <a class="pub-doi" href="https://doi.org/10.48550/arXiv.2507.02010" target="_blank">DOI: 10.48550/arXiv.2507.02010</a>
     </div>
   </div>
