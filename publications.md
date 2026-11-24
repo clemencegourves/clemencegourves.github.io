@@ -90,7 +90,7 @@ permalink: /publications/
       <h4 class="pub-title">Towards the confirmation of a new ultra-short period planet orbiting a M-type star</h4>
       <p class="pub-authors"><span class="pub-me">Gourv&egrave;s, C.</span>, Strugarek, A., Moutou, C., et al.</p>
       <p class="pub-journal">SF2A-2025: Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, pp. 461&ndash;464</p>
-      <a class="pub-doi" href="https://sf2a.eu/proceedings/2025/2025sf2a.conf.461G.pdf" target="_blank">PDF</a>
+      <a class="pub-doi" href="https://scixplorer.org/abs/2025sf2a.conf..461G" target="_blank">Bibcode: 2025sf2a.conf..461G</a>
     </div>
   </div>
 
