@@ -13,7 +13,7 @@ permalink: /publications/
     <div class="pub-content">
       <h4 class="pub-title">Hidden worlds: a non-transiting planet in the Neptunian desert around the solar-type pulsator KIC9139163</h4>
       <p class="pub-authors">Breton, S. N., Dyrek, A., [&hellip;], <span class="pub-me">Gourv&egrave;s, C.</span>, et al.</p>
-      <a class="pub-doi" href="https://doi.org/10.48550/arXiv.2605.28755" target="_blank">DOI: 10.48550/arXiv.2605.28755</a>
+      <a class="pub-doi" href="https://doi.org/10.1051/0004-6361/202558643" target="_blank">DOI: 10.48550/arXiv.2605.28755</a>
     </div>
   </div>
 
@@ -45,6 +45,25 @@ permalink: /publications/
 
 <div class="pub-list">
 
+  <div class="pub-entry">
+    <div class="pub-year">2026</div>
+    <div class="pub-content">
+      <h4 class="pub-title">Realistic models of star-planet magnetic interactions for a close-in exoplanet: implications for Ohmic heating</h4>
+      <p class="pub-authors"><span class="pub-me">Gourv&egrave;s, C.</span>, Strugarek, A., Paul, A.</p>
+      <p class="pub-journal">SF2A-2026: Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, pp. 49&ndash;50</p>
+      <a class="pub-doi" href="https://scixplorer.org/abs/2026sf2a.conf...49G" target="_blank">Bibcode: 2026sf2a.conf...49G</a>
+    </div>
+  </div>
+  
+  <div class="pub-entry">
+    <div class="pub-year">2026</div>
+    <div class="pub-content">
+      <h4 class="pub-title">An ultra-close non-transiting hot Neptune around a solar-type star observed by Kepler?</h4>
+      <p class="pub-authors">Breton, S. N., Dyrek, A., <span class="pub-me">Gourv&egrave;s, C.</span>, et al.</p>
+      <p class="pub-journal">SF2A-2026: Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, pp. 45&ndash;46</p>
+      <a class="pub-doi" href="https://scixplorer.org/abs/2026sf2a.conf...45B" target="_blank">Bibcode: 2026sf2a.conf...45B</a>
+    </div>
+  </div>
 
   <div class="pub-entry">
     <div class="pub-year">2026</div>
