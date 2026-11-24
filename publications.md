@@ -12,7 +12,7 @@ permalink: /publications/
     <div class="pub-year">2026</div>
     <div class="pub-content">
       <h4 class="pub-title">Hidden worlds: a non-transiting planet in the Neptunian desert around the solar-type pulsator KIC9139163</h4>
-      <p class="pub-authors">Breton, S. N., Dyrek, A., [&hellip;], <span class="pub-me">Gourv&egrave;s, C.</span>, et al.</p>
+      <p class="pub-authors">Breton, S. N., et al. including <span class="pub-me">Gourv&egrave;s, C.</span></p>
       <a class="pub-doi" href="https://doi.org/10.1051/0004-6361/202558643" target="_blank">DOI: 10.48550/arXiv.2605.28755</a>
     </div>
   </div>
@@ -69,17 +69,8 @@ permalink: /publications/
     <div class="pub-year">2026</div>
     <div class="pub-content">
       <h4 class="pub-title">Early Exploration of the Scientific Discovery Space for the Habitable Worlds Observatory</h4>
-      <p class="pub-authors">Dressing, Courtney D. et al. including <span class="pub-me">Gourv&egrave;s, C.</span>,</p>
-      <p class="pub-journal" href="https://ui.adsabs.harvard.edu/abs/2026arXiv260811294D/abstract"> </p>
-    </div>
-  </div>
-  
-  <div class="pub-entry">
-    <div class="pub-year">2025</div>
-    <div class="pub-content">
-      <h4 class="pub-title">Towards the confirmation of a new ultra-short period planet orbiting a M-type star</h4>
-      <p class="pub-authors"><span class="pub-me">Gourv&egrave;s, C.</span>, Strugarek, A., Moutou, C., et al.</p>
-      <p class="pub-journal" href="https://ui.adsabs.harvard.edu/abs/2025sf2a.conf..461G">in SF2A-2025: Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, 461&ndash;464</p>
+      <p class="pub-authors">Dressing, Courtney D. et al. including <span class="pub-me">Gourv&egrave;s, C.</span> </p>
+      <p class="pub-journal" href="https://ui.adsabs.harvard.edu/abs/2026arXiv260811294D/abstract" target="_blank">DOI:10.48550/arXiv.2608.11294</a>
     </div>
   </div>
 
@@ -87,9 +78,19 @@ permalink: /publications/
     <div class="pub-year">2025</div>
     <div class="pub-content">
       <h4 class="pub-title">Detecting and characterising the magnetic field of exoplanets</h4>
-      <p class="pub-authors">Strugarek, A., Berdyugina, S. V., [&hellip;], <span class="pub-me">Gourv&egrave;s, C.</span>, et al.</p>
+      <p class="pub-authors">Strugarek, A. et al. including <span class="pub-me">Gourv&egrave;s, C.</span> </p>
       <p class="pub-journal">arXiv e-prints</p>
       <a class="pub-doi" href="https://doi.org/10.48550/arXiv.2507.02010" target="_blank">DOI: 10.48550/arXiv.2507.02010</a>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2025</div>
+    <div class="pub-content">
+      <h4 class="pub-title">Towards the confirmation of a new ultra-short period planet orbiting a M-type star</h4>
+      <p class="pub-authors"><span class="pub-me">Gourv&egrave;s, C.</span>, Strugarek, A., Moutou, C., et al.</p>
+      <p class="pub-journal">SF2A-2025: Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, pp. 461&ndash;464</p>
+      <a class="pub-doi" href="https://sf2a.eu/proceedings/2025/2025sf2a.conf.461G.pdf" target="_blank">PDF</a>
     </div>
   </div>
 
